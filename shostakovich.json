@@ -1,0 +1,570 @@
+[
+  {
+    "quartet_number": 1,
+    "movement_number": 1,
+    "opus_number": "49",
+    "title": "Moderato",
+    "duration": 255,
+    "minutes": 4,
+    "seconds": 15
+  },
+  {
+    "quartet_number": 1,
+    "movement_number": 2,
+    "opus_number": "49",
+    "title": "Moderato",
+    "duration": 248,
+    "minutes": 4,
+    "seconds": 8
+  },
+  {
+    "quartet_number": 1,
+    "movement_number": 3,
+    "opus_number": "49",
+    "title": "Allegro molto",
+    "duration": 131,
+    "minutes": 2,
+    "seconds": 11
+  },
+  {
+    "quartet_number": 1,
+    "movement_number": 4,
+    "opus_number": "49",
+    "title": "Allegro",
+    "duration": 187,
+    "minutes": 3,
+    "seconds": 7
+  },
+  {
+    "quartet_number": 2,
+    "movement_number": 1,
+    "opus_number": "68",
+    "title": "Overture. Moderato con moto",
+    "duration": 497,
+    "minutes": 8,
+    "seconds": 17
+  },
+  {
+    "quartet_number": 2,
+    "movement_number": 2,
+    "opus_number": "68",
+    "title": "Recitative and Romance. Adagio",
+    "duration": 519,
+    "minutes": 8,
+    "seconds": 39
+  },
+  {
+    "quartet_number": 2,
+    "movement_number": 3,
+    "opus_number": "68",
+    "title": "Waltz. Allegro",
+    "duration": 324,
+    "minutes": 5,
+    "seconds": 24
+  },
+  {
+    "quartet_number": 2,
+    "movement_number": 4,
+    "opus_number": "68",
+    "title": "Theme with variations. Adagio",
+    "duration": 621,
+    "minutes": 10,
+    "seconds": 21
+  },
+  {
+    "quartet_number": 3,
+    "movement_number": 1,
+    "opus_number": "73",
+    "title": "Allegretto",
+    "duration": 404,
+    "minutes": 6,
+    "seconds": 44
+  },
+  {
+    "quartet_number": 3,
+    "movement_number": 2,
+    "opus_number": "73",
+    "title": "Moderato con moto",
+    "duration": 323,
+    "minutes": 5,
+    "seconds": 23
+  },
+  {
+    "quartet_number": 3,
+    "movement_number": 3,
+    "opus_number": "73",
+    "title": "Allegro non troppo",
+    "duration": 244,
+    "minutes": 4,
+    "seconds": 4
+  },
+  {
+    "quartet_number": 3,
+    "movement_number": 4,
+    "opus_number": "73",
+    "title": "Adagio",
+    "duration": 304,
+    "minutes": 5,
+    "seconds": 4
+  },
+  {
+    "quartet_number": 3,
+    "movement_number": 5,
+    "opus_number": "73",
+    "title": "Moderato",
+    "duration": 577,
+    "minutes": 9,
+    "seconds": 37
+  },
+  {
+    "quartet_number": 4,
+    "movement_number": 1,
+    "opus_number": "83",
+    "title": "Allegretto",
+    "duration": 218,
+    "minutes": 3,
+    "seconds": 38
+  },
+  {
+    "quartet_number": 4,
+    "movement_number": 2,
+    "opus_number": "83",
+    "title": "Andantino",
+    "duration": 370,
+    "minutes": 6,
+    "seconds": 10
+  },
+  {
+    "quartet_number": 4,
+    "movement_number": 3,
+    "opus_number": "83",
+    "title": "Allegretto",
+    "duration": 246,
+    "minutes": 4,
+    "seconds": 6
+  },
+  {
+    "quartet_number": 4,
+    "movement_number": 4,
+    "opus_number": "83",
+    "title": "Allegretto",
+    "duration": 590,
+    "minutes": 9,
+    "seconds": 50
+  },
+  {
+    "quartet_number": 5,
+    "movement_number": 1,
+    "opus_number": "92",
+    "title": "Allegro non troppo",
+    "duration": 707,
+    "minutes": 11,
+    "seconds": 47
+  },
+  {
+    "quartet_number": 5,
+    "movement_number": 2,
+    "opus_number": "92",
+    "title": "Andante",
+    "duration": 564,
+    "minutes": 9,
+    "seconds": 24
+  },
+  {
+    "quartet_number": 5,
+    "movement_number": 3,
+    "opus_number": "92",
+    "title": "Moderato - Allegretto",
+    "duration": 659,
+    "minutes": 10,
+    "seconds": 59
+  },
+  {
+    "quartet_number": 6,
+    "movement_number": 1,
+    "opus_number": "101",
+    "title": "Allegretto",
+    "duration": 423,
+    "minutes": 7,
+    "seconds": 3
+  },
+  {
+    "quartet_number": 6,
+    "movement_number": 2,
+    "opus_number": "101",
+    "title": "Moderato con moto",
+    "duration": 278,
+    "minutes": 4,
+    "seconds": 38
+  },
+  {
+    "quartet_number": 6,
+    "movement_number": 3,
+    "opus_number": "101",
+    "title": "Lento",
+    "duration": 281,
+    "minutes": 4,
+    "seconds": 41
+  },
+  {
+    "quartet_number": 6,
+    "movement_number": 4,
+    "opus_number": "101",
+    "title": "Lento - Allegretto - Andante - Adagio",
+    "duration": 451,
+    "minutes": 7,
+    "seconds": 31
+  },
+  {
+    "quartet_number": 7,
+    "movement_number": 1,
+    "opus_number": "108",
+    "title": "Allegretto",
+    "duration": 215,
+    "minutes": 3,
+    "seconds": 35
+  },
+  {
+    "quartet_number": 7,
+    "movement_number": 2,
+    "opus_number": "108",
+    "title": "Lento",
+    "duration": 185,
+    "minutes": 3,
+    "seconds": 5
+  },
+  {
+    "quartet_number": 7,
+    "movement_number": 3,
+    "opus_number": "108",
+    "title": "Allegretto - Allegretto",
+    "duration": 336,
+    "minutes": 5,
+    "seconds": 36
+  },
+  {
+    "quartet_number": 8,
+    "movement_number": 1,
+    "opus_number": "110",
+    "title": "Largo",
+    "duration": 277,
+    "minutes": 4,
+    "seconds": 37
+  },
+  {
+    "quartet_number": 8,
+    "movement_number": 2,
+    "opus_number": "110",
+    "title": "Allegro molto",
+    "duration": 164,
+    "minutes": 2,
+    "seconds": 44
+  },
+  {
+    "quartet_number": 8,
+    "movement_number": 3,
+    "opus_number": "110",
+    "title": "Allegretto",
+    "duration": 269,
+    "minutes": 4,
+    "seconds": 29
+  },
+  {
+    "quartet_number": 8,
+    "movement_number": 4,
+    "opus_number": "110",
+    "title": "Largo",
+    "duration": 301,
+    "minutes": 5,
+    "seconds": 1
+  },
+  {
+    "quartet_number": 8,
+    "movement_number": 5,
+    "opus_number": "110",
+    "title": "Largo",
+    "duration": 219,
+    "minutes": 3,
+    "seconds": 39
+  },
+  {
+    "quartet_number": 9,
+    "movement_number": 1,
+    "opus_number": "117",
+    "title": "Moderato con moto",
+    "duration": 281,
+    "minutes": 4,
+    "seconds": 41
+  },
+  {
+    "quartet_number": 9,
+    "movement_number": 2,
+    "opus_number": "117",
+    "title": "Adagio",
+    "duration": 238,
+    "minutes": 3,
+    "seconds": 58
+  },
+  {
+    "quartet_number": 9,
+    "movement_number": 3,
+    "opus_number": "117",
+    "title": "Allegretto",
+    "duration": 246,
+    "minutes": 4,
+    "seconds": 6
+  },
+  {
+    "quartet_number": 9,
+    "movement_number": 4,
+    "opus_number": "117",
+    "title": "Adagio",
+    "duration": 212,
+    "minutes": 3,
+    "seconds": 32
+  },
+  {
+    "quartet_number": 9,
+    "movement_number": 5,
+    "opus_number": "117",
+    "title": "Allegro",
+    "duration": 585,
+    "minutes": 9,
+    "seconds": 45
+  },
+  {
+    "quartet_number": 10,
+    "movement_number": 1,
+    "opus_number": "118",
+    "title": "Andante",
+    "duration": 281,
+    "minutes": 4,
+    "seconds": 41
+  },
+  {
+    "quartet_number": 10,
+    "movement_number": 2,
+    "opus_number": "118",
+    "title": "Allegretto furioso",
+    "duration": 239,
+    "minutes": 3,
+    "seconds": 59
+  },
+  {
+    "quartet_number": 10,
+    "movement_number": 3,
+    "opus_number": "118",
+    "title": "Adagio",
+    "duration": 341,
+    "minutes": 5,
+    "seconds": 41
+  },
+  {
+    "quartet_number": 10,
+    "movement_number": 4,
+    "opus_number": "118",
+    "title": "Allegretto",
+    "duration": 579,
+    "minutes": 9,
+    "seconds": 39
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 1,
+    "opus_number": "122",
+    "title": "Introduction. Andantino",
+    "duration": 157,
+    "minutes": 2,
+    "seconds": 37
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 2,
+    "opus_number": "122",
+    "title": "Scherzo. Allegretto",
+    "duration": 178,
+    "minutes": 2,
+    "seconds": 58
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 3,
+    "opus_number": "122",
+    "title": "Recitative. Adagio",
+    "duration": 77,
+    "minutes": 1,
+    "seconds": 17
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 4,
+    "opus_number": "122",
+    "title": "Etude. Allegro",
+    "duration": 73,
+    "minutes": 1,
+    "seconds": 13
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 5,
+    "opus_number": "122",
+    "title": "Humoresque. Allegro",
+    "duration": 64,
+    "minutes": 1,
+    "seconds": 4
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 6,
+    "opus_number": "122",
+    "title": "Elegy. Adagio",
+    "duration": 236,
+    "minutes": 3,
+    "seconds": 56
+  },
+  {
+    "quartet_number": 11,
+    "movement_number": 7,
+    "opus_number": "122",
+    "title": "Finale. Moderato",
+    "duration": 237,
+    "minutes": 3,
+    "seconds": 57
+  },
+  {
+    "quartet_number": 12,
+    "movement_number": 1,
+    "opus_number": "133",
+    "title": "Moderato - Allegretto - Moderato - Allegretto - Moderato",
+    "duration": 431,
+    "minutes": 7,
+    "seconds": 11
+  },
+  {
+    "quartet_number": 12,
+    "movement_number": 2,
+    "opus_number": "133",
+    "title": "Allegretto - Adagio - Moderato - Adagio - Moderato - Allegretto",
+    "duration": 1182,
+    "minutes": 19,
+    "seconds": 42
+  },
+  {
+    "quartet_number": 13,
+    "movement_number": 1,
+    "opus_number": "138",
+    "title": "Adagio - Doppio movimento - Tempo primo",
+    "duration": 1219,
+    "minutes": 20,
+    "seconds": 19
+  },
+  {
+    "quartet_number": 14,
+    "movement_number": 1,
+    "opus_number": "142",
+    "title": "Allegretto",
+    "duration": 500,
+    "minutes": 8,
+    "seconds": 20
+  },
+  {
+    "quartet_number": 14,
+    "movement_number": 2,
+    "opus_number": "142",
+    "title": "Adagio",
+    "duration": 580,
+    "minutes": 9,
+    "seconds": 40
+  },
+  {
+    "quartet_number": 14,
+    "movement_number": 3,
+    "opus_number": "142",
+    "title": "Allegretto",
+    "duration": 512,
+    "minutes": 8,
+    "seconds": 32
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 1,
+    "opus_number": "144",
+    "title": "Elegy. Adagio",
+    "duration": 817,
+    "minutes": 13,
+    "seconds": 37
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 2,
+    "opus_number": "144",
+    "title": "Serenade. Adagio",
+    "duration": 308,
+    "minutes": 5,
+    "seconds": 8
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 3,
+    "opus_number": "144",
+    "title": "Intermezzo. Adagio",
+    "duration": 105,
+    "minutes": 1,
+    "seconds": 45
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 4,
+    "opus_number": "144",
+    "title": "Nocturne. Adagio",
+    "duration": 250,
+    "minutes": 4,
+    "seconds": 10
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 5,
+    "opus_number": "144",
+    "title": "Funeral March. Adagio molto",
+    "duration": 254,
+    "minutes": 4,
+    "seconds": 14
+  },
+  {
+    "quartet_number": 15,
+    "movement_number": 6,
+    "opus_number": "144",
+    "title": "Epilogue. Adagio",
+    "duration": 385,
+    "minutes": 6,
+    "seconds": 25
+  },
+  {
+    "quartet_number": -1,
+    "movement_number": 1,
+    "opus_number": "29",
+    "title": "Elegy: Adagio",
+    "duration": 267,
+    "minutes": 4,
+    "seconds": 27
+  },
+  {
+    "quartet_number": -1,
+    "movement_number": 2,
+    "opus_number": "22",
+    "title": "Polka: Allegretto",
+    "duration": 147,
+    "minutes": 2,
+    "seconds": 27
+  },
+  {
+    "quartet_number": -2,
+    "movement_number": 1,
+    "opus_number": "",
+    "title": "Movement in E Flat: Allegretto",
+    "duration": 470,
+    "minutes": 7,
+    "seconds": 50
+
+  }
+]
